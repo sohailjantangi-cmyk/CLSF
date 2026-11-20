@@ -1,0 +1,200 @@
+{
+  "nextLeadNumber": 1001,
+  "leads": [],
+  "projects": [
+    {
+      "id": "proj-01",
+      "name": "G+1 Private Villa Construction",
+      "location": "Dubai Hills Estate, Dubai",
+      "category": "Villas",
+      "scope": "Full Turnkey Civil, MEP & Architectural Finishing · 6,800 sq ft BUA",
+      "short_description": "Ground-plus-one reinforced concrete residence built with board-formed concrete elevations, travertine cladding, thermally broken glazing, and fully commissioned chilled water HVAC across seven zones.",
+      "before_image": "/src/assets/images/hero_villa_construction_1795167605296.jpg",
+      "after_image": "/src/assets/images/hero_villa_construction_1795167605296.jpg",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "proj-02",
+      "name": "Executive Office & Boardroom Fit-Out",
+      "location": "Business Bay, Dubai",
+      "category": "Interior Fit-Out",
+      "scope": "Turnkey Category B Commercial Fit-Out · 4,200 sq ft",
+      "short_description": "Shell-and-core office conversion featuring acoustic double-glazed steel partitions, bespoke walnut wall joinery, honed limestone reception flooring, and Civil Defence-certified sprinkler and fire-alarm modifications.",
+      "before_image": "/src/assets/images/hero_commercial_fitout_1795167605424.jpg",
+      "after_image": "/src/assets/images/hero_commercial_fitout_1795167605424.jpg",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "proj-03",
+      "name": "Structural Garden Pavilion & Villa Extension",
+      "location": "Arabian Ranches, Dubai",
+      "category": "Villas",
+      "scope": "Structural Steel & Concrete Extension · 1,150 sq ft",
+      "short_description": "Load-bearing rear facade opening supported on concealed structural steel beams, creating a cantilevered concrete garden pavilion with recessed drainage thresholds and matched external render.",
+      "before_image": "/src/assets/images/cat_villa_extension_1795167608645.jpg",
+      "after_image": "/src/assets/images/cat_villa_extension_1795167608645.jpg",
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "proj-04",
+      "name": "Full Strip-Out Apartment Renovation",
+      "location": "Dubai Marina, Dubai",
+      "category": "Renovation",
+      "scope": "Interior Demolition, MEP Renewal & Finishing · 2,950 sq ft",
+      "short_description": "Complete strip-out back to structural slab, installing new PEX-a plumbing manifolds, flush shadow-gap gypsum ceilings with linear AC slots, oak herringbone timber flooring, and custom concealed-hinge joinery.",
+      "before_image": "/src/assets/images/cat_interior_finishing_1795167609084.jpg",
+      "after_image": "/src/assets/images/cat_interior_finishing_1795167609084.jpg",
+      "featured": false,
+      "order": 4
+    },
+    {
+      "id": "proj-05",
+      "name": "Architectural Material Showroom Fit-Out",
+      "location": "Al Quoz Industrial Area 3, Dubai",
+      "category": "Commercial",
+      "scope": "Warehouse Conversion & Retail Fit-Out · 5,400 sq ft",
+      "short_description": "Conversion of an existing warehouse unit into a climate-controlled showroom with structural steel mezzanine reinforcement, seamless microcement floors, CRI 90+ track lighting grids, and custom display racking.",
+      "before_image": "/src/assets/images/hero_commercial_fitout_1795167605424.jpg",
+      "after_image": "/src/assets/images/hero_commercial_fitout_1795167605424.jpg",
+      "featured": false,
+      "order": 5
+    },
+    {
+      "id": "proj-06",
+      "name": "Primary Bathroom & Kitchen Modernisation",
+      "location": "Jumeirah 2, Dubai",
+      "category": "Renovation",
+      "scope": "Wet-Zone Waterproofing, Tiling & Custom Cabinetry",
+      "short_description": "Full strip-out of four bathrooms and main kitchen with 48-hour flood-tested elastomeric membranes, mitred large-format porcelain slabs, concealed cisterns, 45A appliance circuits, and marine-plywood cabinetry.",
+      "before_image": "/src/assets/images/cat_interior_finishing_1795167609084.jpg",
+      "after_image": "/src/assets/images/cat_interior_finishing_1795167609084.jpg",
+      "featured": false,
+      "order": 6
+    },
+    {
+      "id": "proj-07",
+      "name": "Commercial Plant Room & HVAC Chiller Upgrade",
+      "location": "Deira, Dubai",
+      "category": "MEP",
+      "scope": "Chilled Water Plant, FCU Replacement & Airflow Balancing",
+      "short_description": "Replacement of aged chilled water circulation pumps, VFD booster skids, insulated distribution headers, and 18 concealed fan coil units across an occupied commercial building with zero daytime downtime.",
+      "before_image": "/src/assets/images/hero_mep_systems_1795167608928.jpg",
+      "after_image": "/src/assets/images/hero_mep_systems_1795167608928.jpg",
+      "featured": false,
+      "order": 7
+    },
+    {
+      "id": "proj-08",
+      "name": "Lap Swimming Pool & Courtyard Refurbishment",
+      "location": "Emirates Hills, Dubai",
+      "category": "Swimming Pools",
+      "scope": "Pool Waterproofing, Slate Mosaic Tiling & Filtration Upgrade",
+      "short_description": "Structural shell crack injection, balance-tank re-waterproofing, dark slate mosaic lining, honed travertine coping, and installation of a high-efficiency pool chiller and automated dosing plant.",
+      "before_image": "/src/assets/images/cat_pool_maintenance_1795167608879.jpg",
+      "after_image": "/src/assets/images/cat_pool_maintenance_1795167608879.jpg",
+      "featured": false,
+      "order": 8
+    },
+    {
+      "id": "proj-09",
+      "name": "Commercial Building Annual Maintenance Contract",
+      "location": "Port Saeed, Deira, Dubai",
+      "category": "Maintenance",
+      "scope": "Planned Preventive MEP, Roof Waterproofing & Fabric AMC",
+      "short_description": "Ongoing multi-discipline AMC covering quarterly HVAC coil and drain servicing, thermographic distribution board audits, GRP water tank disinfection, and common-area stone and facade upkeep.",
+      "before_image": "/src/assets/images/hero_mep_systems_1795167608928.jpg",
+      "after_image": "/src/assets/images/hero_mep_systems_1795167608928.jpg",
+      "featured": false,
+      "order": 9
+    }
+  ],
+  "services": [
+    {
+      "title": "Building Contracting",
+      "slug": "building-contracting-dubai",
+      "number": "01",
+      "tagline": "Ground-up villa construction, structural extensions, and residential building works.",
+      "description": "Disciplined civil and structural contracting across Dubai, managing excavation, reinforced concrete frames, blockwork, waterproofing, and envelope completion under one accountable site team.",
+      "features": [
+        "Villa Construction",
+        "G+1 Villa Construction",
+        "Villa Extensions & Structural Modifications",
+        "Residential Building Renovation"
+      ],
+      "image": "/src/assets/images/hero_villa_construction_1795167605296.jpg",
+      "order": 1
+    },
+    {
+      "title": "Interior Fit-Out & Renovation",
+      "slug": "interior-fit-out-dubai",
+      "number": "02",
+      "tagline": "Turnkey commercial fit-outs, retail showrooms, and full residential renovations.",
+      "description": "Precision interior fit-out and renovation contracting across Dubai, uniting strip-out, MEP adaptation, bespoke joinery, and architectural finishes under disciplined site management.",
+      "features": [
+        "Turnkey Interior Fit-Out",
+        "Commercial Office Fit-Out",
+        "Retail & Showroom Fit-Out",
+        "Villa & Apartment Renovation",
+        "Bathroom Renovation",
+        "Kitchen Renovation"
+      ],
+      "image": "/src/assets/images/hero_commercial_fitout_1795167605424.jpg",
+      "order": 2
+    },
+    {
+      "title": "MEP & HVAC",
+      "slug": "mep-hvac-dubai",
+      "number": "03",
+      "tagline": "Mechanical, electrical, plumbing, and HVAC contracting built for UAE climate loads.",
+      "description": "Engineered mechanical, electrical, plumbing, and HVAC installation and upgrade services across residential and commercial properties in Dubai, built to DEWA and Civil Defence standards.",
+      "features": [
+        "MEP Contracting & Installation",
+        "HVAC Installation & Maintenance",
+        "Electrical Works",
+        "Plumbing & Sanitary Works",
+        "Electromechanical Equipment Installation & Maintenance"
+      ],
+      "image": "/src/assets/images/hero_mep_systems_1795167608928.jpg",
+      "order": 3
+    },
+    {
+      "title": "Interior Finishing",
+      "slug": "interior-finishing-dubai",
+      "number": "04",
+      "tagline": "Ceilings, stone and tile work, flooring, painting, joinery, and architectural glazing.",
+      "description": "Architectural finishing trades executed with tight tolerances, plumb substrates, and coordinated shadow-gap detailing across villas, apartments, offices, and retail showrooms.",
+      "features": [
+        "Gypsum Ceiling & Partitions",
+        "Flooring Installation",
+        "Floor & Wall Tiling",
+        "Painting & Decorative Finishes",
+        "Wallpaper & Wall Cladding",
+        "Carpentry & Joinery",
+        "Doors, Glass & Aluminium Works"
+      ],
+      "image": "/src/assets/images/cat_interior_finishing_1795167609084.jpg",
+      "order": 4
+    },
+    {
+      "title": "Building Maintenance & AMC",
+      "slug": "building-maintenance-dubai",
+      "number": "05",
+      "tagline": "Planned Annual Maintenance Contracts, villa care, commercial upkeep, and pool engineering.",
+      "description": "Structured Annual Maintenance Contracts (AMC) and reactive technical call-outs across Dubai, preserving MEP asset reliability, building fabric condition, and water quality.",
+      "features": [
+        "Building Maintenance & AMC",
+        "Villa Maintenance",
+        "Commercial Property Maintenance",
+        "Swimming Pool Maintenance",
+        "Building Cleaning Services"
+      ],
+      "image": "/src/assets/images/cat_pool_maintenance_1795167608879.jpg",
+      "order": 5
+    }
+  ],
+  "testimonials": [],
+  "emailLogs": []
+}

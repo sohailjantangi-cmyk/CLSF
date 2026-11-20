@@ -1,0 +1,6 @@
+{
+  "name": "CLSF Building Contracting",
+  "description": "Dubai building contracting, interior fit-out, MEP engineering, finishing, and building maintenance (AMC) across residential and commercial properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
